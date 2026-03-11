@@ -1,4 +1,4 @@
-<img src="screenshots/todo-app.png" width="600">
+<img src="screenshots/todo-app.jpg" width="600">
 # React To-Do Project
 
 A modern task management app built with **React** and **Vite**.  
