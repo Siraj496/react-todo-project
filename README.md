@@ -1,4 +1,3 @@
-<img src="screenshots/todo-app.jpg" width="600">
 # React To-Do Project
 
 A modern task management app built with **React** and **Vite**.  
@@ -20,12 +19,19 @@ This project helps you add, edit, delete, sort, and filter tasks. Tasks are stor
 
 ---
 
+## 🖼 Screenshots
+
+### Main App View
+![Main App Screenshot](screenshots/todo-app.jpg)
+
+---
+
 ## 💻 Tech Stack
 
-- React (Functional Components & Hooks)
-- Vite (Development Server & Build Tool)
-- CSS (Separate files for each component)
-- Lucide React (Icons)
+- **React** (Functional Components & Hooks)  
+- **Vite** (Development Server & Build Tool)  
+- **CSS** (Separate files for each component)  
+- **Lucide React** (Icons)
 
 ---
 
