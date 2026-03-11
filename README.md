@@ -1,16 +1,36 @@
-# React + Vite
+# React To-Do Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern task management app built with **React** and **Vite**.  
+This project helps you add, edit, delete, sort, and filter tasks. Tasks are stored in **localStorage** so they persist between sessions.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔹 Features
 
-## React Compiler
+- Add new tasks with a text description
+- Edit existing tasks
+- Delete tasks
+- Mark tasks as complete or incomplete
+- Filter to show only incomplete tasks
+- Sort tasks by priority
+- Data persistence using localStorage
+- Clean and responsive component-based UI
+- Styled with separate CSS files for maintainability
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 💻 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React (Functional Components & Hooks)
+- Vite (Development Server & Build Tool)
+- CSS (Separate files for each component)
+- Lucide React (Icons)
+
+---
+
+## 🚀 How to Run Locally
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/Siraj496/react-todo-project.git
