@@ -1,0 +1,20 @@
+body {
+  background: #f5f7fa;
+}
+
+.container {
+  max-width: 900px;
+  margin: auto;
+  padding: 30px;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+.task-counter {
+  text-align: center;
+  margin-top: 20px;
+  color: gray;
+}
